@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^requirements\.txt$
+^\.github$
+^LICENSE\.md$
+^.*\.Rproj$
+^\.Rproj\.user$
+^_targets\.R$
+^packages\.R$
